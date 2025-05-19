@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background-color: beige;}
+
+
+
+
+#Logo {float: left;} 
+#Icon {float: right;}
+#navigation {clear:both; border-top: solid black 3px; border-bottom: solid black 3px;word-spacing: 20px; margin: 10px; padding: 10px;}
+
+
+#Weldow h1 {color: saddlebrown; border-bottom: solid black 0.5px; padding: 10px;}
+
+
+#Weldow {float:left; width: 650px;}
+#kanan {float:right;width: 200px;}
+#Footer {clear:both;}
+#Kotak {background-color:white;margin:0px auto; width:1000px;}
+#Kotakkotak {background-color:white;margin:0px auto; width:900px;}
+#kanan h3 {color: saddlebrown;}
+#Footer {text-align: center;border-top: solid black 1px}
+#Weldow img {border:solid black 0.5px;padding:10px}
+#Kotak {padding: 30px 0px}
+#navigation {padding: 10px}
+#Logo {padding-bottom: 30px}
+#navigation a:link {color:black}
+#navigation a {text-decoration:none}
+#navigation a:hover {color:saddlebrown}
